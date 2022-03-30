@@ -1,7 +1,6 @@
-### Hi, I'm Fanea Antonieta 👋
-
-<!--
+# Hi, I'm Fanea Antonieta 👋 <a align="center"></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+My+GitHub+Profile;Mathematics+Student;Data+Enthusiast)](https://git.io/typing-svg)
+<!--
 
 **faneafa/faneafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
